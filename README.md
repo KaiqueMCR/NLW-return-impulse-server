@@ -70,7 +70,9 @@ Click on the images above to see in production 👆
 
 <br>
 
-to run this project you must have installed [Git](https://git-scm.com) and [Node](https://nodejs.org/en/).
+⚠️ to run this project you must have installed [Git](https://git-scm.com) and [Node](https://nodejs.org/en/).
+
+<br>
 
 1. Clone this repo with:
 
