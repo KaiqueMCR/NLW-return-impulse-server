@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub top language](https://img.shields.io/github/languages/top/KaiqueMCR/NLW-return-impulse-server?color=%23007acc)
+![GitHub top language](https://img.shields.io/github/languages/top/KaiqueMCR/NLW-return-impulse-server?color=e34c26)
 ![GitHub](https://img.shields.io/github/license/KaiqueMCR/NLW-return-impulse-server)
 ![GitHub repo size](https://img.shields.io/github/repo-size/KaiqueMCR/NLW-return-impulse-server)
 ![GitHub issues](https://img.shields.io/github/issues/KaiqueMCR/NLW-return-impulse-server)
